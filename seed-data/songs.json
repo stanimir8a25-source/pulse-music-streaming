@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Naiden Djambaza",
+    "artistName": "STAN ft. gypsyking",
+    "genre": "kucek",
+    "duration": 243,
+    "audioPath": "uploads/audio/1789225103144-1789225103144-1_12_14_2026.mp3",
+    "coverPath": "uploads/covers/1789225103178-Screenshot_2026-09-12_174951.png",
+    "playCount": 0,
+    "isHidden": false
+  },
+  {
+    "title": "Ledena Kralitsa",
+    "artistName": "STAN ft. AZIS",
+    "genre": "cahlga/popfolk",
+    "duration": 218,
+    "audioPath": "uploads/audio/1789225131378-1789225131378-AZIS_-_Ledena_kralica_-_12_oN_N_2005.mp3",
+    "coverPath": "uploads/covers/1789225131458-Screenshot_2026-09-12_174158.png",
+    "playCount": 0,
+    "isHidden": false
+  },
+  {
+    "title": "In and out of love",
+    "artistName": "STAN ft. Sharon del Adel",
+    "genre": "pop",
+    "duration": 182,
+    "audioPath": "uploads/audio/1789225169440-In_And_Out_Of_Love.mp3",
+    "coverPath": "uploads/covers/1789225169457-Screenshot_2026-09-12_173723.png",
+    "playCount": 0,
+    "isHidden": false
+  },
+  {
+    "title": "New kind of love",
+    "artistName": "STAN ft. frou frou",
+    "genre": "pop",
+    "duration": 244,
+    "audioPath": "uploads/audio/1789225198600-frou_frou_-_A_New_Kind_Of_Love.mp3",
+    "coverPath": "uploads/covers/1789225198628-Screenshot_2026-09-12_171221.png",
+    "playCount": 0,
+    "isHidden": false
+  },
+  {
+    "title": "teeth",
+    "artistName": "STAN ft. xxxtentacion",
+    "genre": "pop/rap",
+    "duration": 248,
+    "audioPath": "uploads/audio/1789225226024-XXXTENTACION_-_TEETH_(FULL_EXTENDED_VERSION).mp3",
+    "coverPath": "uploads/covers/1789225226044-Screenshot_2026-09-12_155928.png",
+    "playCount": 0,
+    "isHidden": false
+  }
+]

@@ -1,0 +1,15 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+docs/_tmp.docx
+docs/req_extract.txt
+
+docs/__pycache__/
+docs/gh-auth-live.txt
+*.pyc
